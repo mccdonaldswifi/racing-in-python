@@ -18,8 +18,8 @@ speed2 = 1
 
               
 # These two lines of code define the color of each of the turtles
-turtle_1.color("blue")
-turtle_2.color("grey")
+turtle_1.color("red")
+turtle_2.color("blue")
 
 
 
